@@ -79,7 +79,7 @@ exit
 
 #### Launch Jupyter
 
-* Because the goal is to access the jupyter web server in UserLAnd, the launch command requires some modification:
+* Because the goal is to access the jupyter web server in UserLAnd via ssh, the launch command requires some modification:
 
 ```
 jupyter notebook --ip=0.0.0.0
