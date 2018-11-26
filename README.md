@@ -106,7 +106,7 @@ jupyter lab --ip=0.0.0.0
 * Repository for the Shell Script: [ChromeOS Jupyter for UserLAnd]
 
 
-[Android Community]: (https://androidcommunity.com/userland-allows-linux-apps-distributions-run-on-android-20181019/)
-[Secure Shell App]: (https://chrome.google.com/webstore/detail/secure-shell-app/pnhechapfaindjhompbnflcldabbghjo/related?utm_source=chrome-app-launcher-search)
-[UserLAnd]: (https://github.com/CypherpunkArmory/UserLAnd)
-[ChromeOS Jupyter for UserLAnd]: (https://github.com/darrida/chromeos_jupyter_for_userland)
+[Android Community]: https://androidcommunity.com/userland-allows-linux-apps-distributions-run-on-android-20181019/
+[Secure Shell App]: https://chrome.google.com/webstore/detail/secure-shell-app/pnhechapfaindjhompbnflcldabbghjo/related?utm_source=chrome-app-launcher-search
+[UserLAnd]: https://github.com/CypherpunkArmory/UserLAnd
+[ChromeOS Jupyter for UserLAnd]: https://github.com/darrida/chromeos_jupyter_for_userland
