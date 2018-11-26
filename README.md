@@ -93,6 +93,7 @@ http://(localhost or 127.0.0.1):8888/?token=a9703017ced4c47b89d504a2b4739bc84638
 * Jupyter Note should launch normally.
 * DONE
   * You now have an environment with jupyter, pandas, bs4, and matplotlib. To install additional packages, just use pip as root, or "sudo pip." 
+  * Note: it's possible that a little trial and error is needed for some packges (if you read the jupyter-setup.sh file, you'll see that two dependencies for matplotlib had to be installed via apt-get before the package would install successfully)
 
 #### Additional Notes:
 * Include sessions actual IP in launch command, to avoid editing the URL after copy/paste:
