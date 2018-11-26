@@ -1,4 +1,4 @@
-# ChromeOS Jupyter for UserLAnd
+# Jupyter for UserLAnd on ChromeOS
 
 As a Jupyter Notebook/Lab user and a Samsung Chromebook Pro owner I've spent a lot of time trying to figure out a method to use a local install of Jupyter without resorting to the Developer Mode. I've put a lot of time into fighting with Termux (which is a great platform), experimenting with various cloud-hosted solutions, and broke down and enabled Dev Mode several times (and always returned). To be honest, I'm not sure how many hours I've racked up in this single pursuit.
 
@@ -103,10 +103,10 @@ jupyter notebook --ip=100.115.92.2
 ```
 jupyter lab --ip=0.0.0.0
 ```
-* Repository for the Shell Script: [ChromeOS Jupyter for UserLAnd]
+* Repository for the Shell Script: [Jupyter for UserLAnd on ChromeOS]
 
 
 [Android Community]: https://androidcommunity.com/userland-allows-linux-apps-distributions-run-on-android-20181019/
 [Secure Shell App]: https://chrome.google.com/webstore/detail/secure-shell-app/pnhechapfaindjhompbnflcldabbghjo/related?utm_source=chrome-app-launcher-search
 [UserLAnd]: https://github.com/CypherpunkArmory/UserLAnd
-[ChromeOS Jupyter for UserLAnd]: https://github.com/darrida/chromeos_jupyter_for_userland
+[Jupyter for UserLAnd on ChromeOS]: https://github.com/darrida/chromeos_jupyter_for_userland
