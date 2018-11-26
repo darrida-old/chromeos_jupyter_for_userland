@@ -112,6 +112,13 @@ jupyter lab --ip=0.0.0.0
 ```
 * Repository for the Shell Script: [Jupyter for UserLAnd on ChromeOS]
 
+##### Mount User Directory to ChromeOS Files
+* Similar to Termux, it's possible to mount the user directory in the Files app.
+  * Create a second entry in the Secure Shell App, identical to the first entry, but with one difference...
+  * SSH Arguments: **-D 8400**
+  * Make sure to change the entry name in the free form field.
+    * Example: MOUNT user@100.115.92.2:2022
+  * Select **SFTP Mount**
 
 [Android Community]: https://androidcommunity.com/userland-allows-linux-apps-distributions-run-on-android-20181019/
 [Secure Shell App]: https://chrome.google.com/webstore/detail/secure-shell-app/pnhechapfaindjhompbnflcldabbghjo/related?utm_source=chrome-app-launcher-search
