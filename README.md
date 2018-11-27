@@ -89,7 +89,7 @@ jupyter notebook --ip=0.0.0.0
 ```
 http://(localhost or 127.0.0.1):8888/?token=a9703017ced4c47b89d504a2b4739bc84638a8b5fa64da19
 ```
-* Copy and paste the URL into Chrome, and replace the "(localhost or 127.0.0.1)" with you sessions, IP (i.e., 100.115.92.2).
+* Copy and paste the URL into Chrome, and replace the "(localhost or 127.0.0.1)" with you session's, IP (i.e., 100.115.92.2).
 * Jupyter Note should launch normally.
 * DONE
   * You now have an environment with jupyter, pandas, bs4, and matplotlib. To install additional packages, just use pip as root, or "sudo pip." 
