@@ -113,7 +113,7 @@ jupyter lab --ip=0.0.0.0
 * Repository for the Shell Script: [Jupyter for UserLAnd on ChromeOS]
 * I've seen some issues where the Secure Shell App can no longer verify the key of the UserLAnd session. Since this is just running locally, I'll temporarily bypass this by including "-o UserKnownHostsFile=/dev/null" in the SSH Arguments field.
 
-##### Mount User Directory
+#### Mount User Directory
 ###### Using the Secure Shell App
 * Similar to Termux, it's possible to mount the user directory in the Files app.
   * Create a second entry in the Secure Shell App, identical to the first entry, but with one difference...
